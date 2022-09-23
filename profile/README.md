@@ -6,10 +6,10 @@ For ease of access to releases.
 
 * Primary repository 
 https://repo.or.cz/w/tinycc.git  
-For contribution and contacts  
+For contribution and contacts.  
 
 * Original Project: https://bellard.org/tcc/  
-  For General Information
+  For General Information.
 
 <!--
 
