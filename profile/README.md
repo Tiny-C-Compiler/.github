@@ -23,4 +23,4 @@ For contribution and contacts.
 -->
 
 
-![Tiny C Compiler](https://user-images.githubusercontent.com/21064622/192001073-40a02443-d497-43d9-b98f-441ade73cc79.png)
+![Tiny C Compiler](https://user-images.githubusercontent.com/21064622/192001888-cc8c9f69-cb61-491d-be0f-52a382df787e.png)
