@@ -21,3 +21,6 @@ For contribution and contacts.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+![Tiny C Compiler](https://user-images.githubusercontent.com/21064622/192001073-40a02443-d497-43d9-b98f-441ade73cc79.png)
