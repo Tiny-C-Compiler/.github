@@ -1,5 +1,17 @@
 ## Tiny C Compiler
 
+
+* GitHub Mirror Repository   
+ https://github.com/Tiny-C-Compiler/mirror-repository  
+For ease of access to releases.  
+
+* Primary repository 
+https://repo.or.cz/w/tinycc.git  
+For contribution and contacts  
+
+* Original Project: https://bellard.org/tcc/  
+  For General Information
+
 <!--
 
 **Here are some ideas to get you started:**
