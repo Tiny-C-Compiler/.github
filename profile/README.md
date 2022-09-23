@@ -1,7 +1,7 @@
 ## Tiny C Compiler
 
 
-* [GitHub Mirror Repository](https://github.com/Tiny-C-Compiler/mirror-repository  )   
+* [🔄 GitHub Mirror Repository](https://github.com/Tiny-C-Compiler/mirror-repository  )   
 For ease of access to releases.  
 
 * Primary repository 
