@@ -22,3 +22,6 @@ For contribution and contacts.
 
 
 ![Tiny C Compiler](https://user-images.githubusercontent.com/21064622/192001888-cc8c9f69-cb61-491d-be0f-52a382df787e.png)
+
+Issue: Due to no direct interaction with repository the GitHub Action need to be renewed every 60 days.  
+https://github.com/Tiny-C-Compiler/mirror-repository-github-actions/actions/workflows/repository-synchronisation.yml
