@@ -9,6 +9,8 @@ For contribution and contacts.
 * [Original Project](https://bellard.org/tcc/)   
   For General Information.
 
+* [Mailing List Archive](https://lists.nongnu.org/archive/html/tinycc-devel/)  
+  Keeping track of news and communications.
 <!--
 
 **Here are some ideas to get you started:**
