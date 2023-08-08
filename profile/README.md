@@ -6,7 +6,7 @@ For ease of access to releases.
 * [👨‍💻 Primary repository [tinycc.git]](https://repo.or.cz/w/tinycc.git)  
 For contribution and contacts.  
 
-* [Original Project](https://bellard.org/tcc/)   
+* [🌟 Original Project](https://bellard.org/tcc/)   
   For General Information.
 
 * [📭 Mailing List Archive](https://lists.nongnu.org/archive/html/tinycc-devel/)  
