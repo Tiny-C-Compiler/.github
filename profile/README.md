@@ -1,4 +1,5 @@
-The Mirroring is openly governed by [🔩GitHub-Actions-mirror-repository](https://github.com/Tiny-C-Compiler/GitHub-Actions-mirror-repository/blob/main/.github/workflows/repository-synchronisation.yml).
+The Mirroring is openly governed by [🔩GitHub-Actions-mirror-repository](https://github.com/Tiny-C-Compiler/GitHub-Actions-mirror-repository/blob/main/.github/workflows/repository-synchronisation.yml).  
+The Mirroring project is provided under [CC0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 ## Main Menu
 
 * [🔄 GitHub Mirror Repository](https://github.com/Tiny-C-Compiler/mirror-repository  )   
