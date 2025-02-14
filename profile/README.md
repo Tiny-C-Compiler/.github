@@ -1,3 +1,4 @@
+The Mirroring is openly governed by [🔩GitHub-Actions-mirror-repository](https://github.com/Tiny-C-Compiler/GitHub-Actions-mirror-repository/blob/main/.github/workflows/repository-synchronisation.yml).
 ## Main Menu
 
 * [🔄 GitHub Mirror Repository](https://github.com/Tiny-C-Compiler/mirror-repository  )   
