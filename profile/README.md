@@ -1,3 +1,5 @@
+This is an alternative way to gain access to Tiny C Compiler Source Code.
+
 The Mirroring is openly governed by [🔩GitHub-Actions-mirror-repository](https://github.com/Tiny-C-Compiler/GitHub-Actions-mirror-repository/blob/main/.github/workflows/repository-synchronisation.yml).  
 The Mirroring project is provided under [CC0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/deed.en).  
 Tiny C Compiler (TCC) is provided as is under its own original license. [[More information.]](https://github.com/Tiny-C-Compiler/mirror-repository)
